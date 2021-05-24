@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":"todo_jwtPrivateKey",
+    "db": "mongodb://localhost/TodoList"
+}
